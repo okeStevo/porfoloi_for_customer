@@ -130,7 +130,7 @@ export default function Home() {
     I’m passionate about blending creativity and technology to create digital experiences that stand out. Let’s build something amazing together!
   </p>
   <p className="text-md py-2 leading-8 text-gray-400">
-    I'm a tech enthusiast with a passion for designing intuitive web interfaces and turning raw data into actionable insights.
+    I&apos;m a tech enthusiast with a passion for designing intuitive web interfaces and turning raw data into actionable insights.
   </p>
 </div>
           <div className="lg:flex gap-10">
